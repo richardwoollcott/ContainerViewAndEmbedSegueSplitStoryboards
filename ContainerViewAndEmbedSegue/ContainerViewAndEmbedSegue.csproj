@@ -103,6 +103,7 @@
   <ItemGroup>
     <InterfaceDefinition Include="LaunchScreen.storyboard" />
     <InterfaceDefinition Include="Main.storyboard" />
+    <InterfaceDefinition Include="SharedView.storyboard" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Info.plist" />
